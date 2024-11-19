@@ -11,6 +11,7 @@ Projet Spark-ML (Dounia & Selsabile)
 Projet Tim - Brain Tumor
 TP-KNN
 Face Recognition (TIM Project)
+BigDataProject_SPARK
 ____________________________________________________________________________________________
 **1. Car Prices Regression**
 _Description:_
@@ -30,7 +31,7 @@ Prétraitement des données
 Classification supervisée (KNN)
 🔗 Code Source
 ____________________________________________________________________________________________
-**3. Diabetes Prediction**
+**3. Diabetes Prediction Project IA**
 _Description:_
 Un modèle prédictif pour diagnostiquer le diabète en utilisant des caractéristiques médicales.
 Un projet détaillé combinant les concepts d’intelligence artificielle et d’analyse de données.
@@ -85,6 +86,18 @@ Vision par ordinateur
 Techniques de deep learning
 🔗 Code Source
 ____________________________________________________________________________________________
+**9. Big Data Project - Spark**
+_Description:_
+Un projet Big Data utilisant Apache Spark pour l’analyse et le traitement de grands ensembles de données. Ce projet met en œuvre des algorithmes distribués et des techniques avancées d'ingestion, de transformation et d'analyse.
+
+_Techniques utilisées:_
+Framework Apache Spark
+Gestion de données volumineuses (Big Data)
+Spark SQL et MLlib
+[Code Source](./BigDataProject_SPARK)
+
+🔗 Code Source
+__________________________________________________________________________________________
 **Contact**
 **Pour toute question ou suggestion, n’hésitez pas à me contacter :
 📧 Email : douniakamel2@gmail.com , dounia.kamel@g.enp.edu.dz**
