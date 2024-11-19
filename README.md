@@ -20,8 +20,7 @@ Un modèle de régression pour prédire les prix des voitures en fonction de leu
 _Techniques utilisées:_
 Régression linéaire
 Régression par forêts aléatoires
-🔗[Code Source](Dooniiaa_Projects/car_prices_regression )
-[Voir le projet ](https://github.com/dooniiaa/Dooniiaa_Projects/blob/main/car_prices_regression%20.ipynb)
+🔗[Code Source](https://github.com/dooniiaa/Dooniiaa_Projects/blob/main/car_prices_regression%20.ipynb)
 ____________________________________________________________________________________________
 **2. Customer Satisfaction (KNN)**
 _Description:_
