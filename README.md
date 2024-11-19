@@ -20,7 +20,7 @@ Un modèle de régression pour prédire les prix des voitures en fonction de leu
 _Techniques utilisées:_
 Régression linéaire
 Régression par forêts aléatoires
-🔗[Code Source](./BigDataProject_SPARK)
+🔗[Code Source](./car_prices_regression )
 ____________________________________________________________________________________________
 **2. Customer Satisfaction (KNN)**
 _Description:_
@@ -29,7 +29,7 @@ Application de l'algorithme KNN pour prédire la satisfaction client à partir d
 _Techniques utilisées:_
 Prétraitement des données
 Classification supervisée (KNN)
-🔗[Code Source](./Customer satisfaction KNN)
+🔗[Code Source](./Customer_satisfaction_KNN)
 ____________________________________________________________________________________________
 **3. Diabetes Prediction Project IA**
 _Description:_
@@ -39,7 +39,7 @@ Un projet détaillé combinant les concepts d’intelligence artificielle et d�
 _Techniques utilisées:_
 Modèles supervisés
 Analyse des performances (précision, rappel)
-🔗[Code Source](./BigDataProject_SPARK)
+🔗[Code Source](./Diabetes_prediction_ProjetIA)
 ____________________________________________________________________________________________
 **4. Income Classification**
 _Description:_
@@ -48,7 +48,7 @@ Classification des revenus en différentes catégories à l'aide de données soc
 _Techniques utilisées:_
 Arbres de décision
 Random Forest et SVM
-🔗[Code Source](./BigDataProject_SPARK)
+🔗[Code Source](./Income_classification)
 ______________________________________________________________________________________________
 **5. Projet Spark-ML (Dounia & Selsabile)**
 _Description:_
@@ -57,7 +57,7 @@ Implémentation de modèles de Machine Learning distribués à l'aide de Spark M
 _Techniques utilisées:_
 Clustering
 Pipelines Spark ML
-🔗[Code Source](./BigDataProject_SPARK)
+🔗[Code Source](./Projet_Spark-ML-Dounia_Selsabile)
 ____________________________________________________________________________________________
 **6. Projet Tim - Brain Tumor**
 _Description:_
@@ -66,7 +66,7 @@ Détection et classification de tumeurs cérébrales à partir d’images médic
 _Techniques utilisées:_
 Vision par ordinateur
 Réseaux de neurones convolutifs (CNN)
-🔗[Code Source](./BigDataProject_SPARK)
+🔗[Code Source](./Projet_timBrain_tumor)
 ____________________________________________________________________________________________
 **7. TP-KNN**
 _Description:_
