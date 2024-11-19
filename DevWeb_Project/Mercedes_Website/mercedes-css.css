@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.home{
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.8), rgb(0,0,0,0.1)),url(https://www.mercedes-benz.fr/content/france/fr/passengercars/_jcr_content/root/responsivegrid/simple_stage_1564354.component.damq6.3388026262490.jpg/Stardays_stage_V2.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.bar{
+    background-color: black;
+    height: 80px;
+    display: flex ;
+    justify-content:space-between;
+    align-items: center;
+}
+.bar logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo img {
+    height: 80px;
+    width: 70px;
+    margin: 30px;
+}
+.bar ul{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 10px;
+    padding-right: 20px;
+}
+.bar a{
+    color: rgba(255, 255, 255, 0.501);
+    font-size: larger;
+    transition: .5s ease-in-out;
+}
+input[type="text"] {
+    background-color: #434141;
+    color: #fdfcfc;
+    border: 1px solid #434141;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 30px;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: left;
+    margin-right: 900px;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+.first h1{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+.first p{
+    color:rgb(36, 35, 35);
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.first a{
+    border: 1px solid rgb(0, 132, 255);
+    background-color: rgb(0, 132, 255);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+}
+.page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.page2 .carss{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 100px;
+}
+.cars{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+}
+.carss i {
+    font-size: 100px;
+    color: white;
+
+}
+.carss h3{
+    color:white ;
+    font-weight: 100px; 
+    font-size: 25px;
+
+}
+
+.page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.pht img{
+    height: 250px;
+}
+.photos{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.pht{
+    margin-top: 40px;
+    border: 2px double rgba(87, 4, 4, 0.796);
+}
+.titre{
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.titre h2{
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 800px;
+}
+.pht h4{
+    color: white;
+}
+.page4{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.page4 titre4{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+.titre4 h4 {
+    color:white;
+    margin-top: 200px;
+    font-size: 20px;
+    text-decoration:underline; 
+    margin-right: 1200px;
+}
+.titre4 h3 {
+    color:rgb(234, 13, 13);
+    padding: 10px;
+    font-size:40px;
+    text-shadow: 2px 2px 4px rgb(230, 85, 85);
+}
+.titre4 h5 {
+    color:white;
+    padding-left: 10px;
+
+}
+.mercedes4{
+    height: 40px;
+    width: 60px;
+}
+.pht2{
+    margin-top: 40px;
+}
+.photos4{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+   
+}
+.pht2 img{
+    height: 250px;
+    border: 2px solid white;
+}
+.pht2 h4{
+    color: white;
+}
+.photos4 h3{
+    color:white
+}
+.page5{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0 20px;
+    padding-right: 120px;
+    height: 100vh;
+
+}
+.page5 .right{
+    width: 500px;
+    height: 400px;
+    background-image: url(./mercedes-benz-g-class-w463-night-package-front-1884x1884-08-2022.avif);
+    margin-top: 100px;
+    background-position: center;
+    background-size: cover;
+}
+.page5 .left{
+    flex-basis: 50% ;
+    margin-left: 30px;
+    margin-top: 200px;
+    padding-right: 40px;
+}
+.page5 h3{
+    color: blue;
+    font-weight: 100px;
+    font-size: 40px;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.page5 h5{
+    color: white;
+}
+.page5 p{
+    color: white;
+    font-size: 20px;
+    font-weight: 100px;
+    margin:30px 20px;
+    margin-bottom: 70px;
+}
+.page5 a{
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 70px;
+    transition: .5s ease-in-out;
+}
+.final{
+    background-color: rgb(61, 60, 60);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:0 20px;
+    padding-right: 120px;
+    height: 100%;
+}
+.final .toop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
